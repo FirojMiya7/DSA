@@ -1,0 +1,15 @@
+name: Update Activity
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Simple activity log
+        run: echo "GitHub Actions workflow running $(date)"
