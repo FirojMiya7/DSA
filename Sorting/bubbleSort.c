@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-// Bubble sort function using left and right attributes
 void bubble(int arr[], int left, int right) {
     int i, j, temp;
 
