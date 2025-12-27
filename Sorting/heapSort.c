@@ -80,7 +80,6 @@ int main() {
     // Call heap sort
     heapSort(arr, left, right);
 
-    // Print array after sorting
     printf("After Heap Sort:\n");
     for (i = left; i <= right; i++)
         printf("%d ", arr[i]);
