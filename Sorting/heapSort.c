@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-// Heap Sort function using left and right attributes
-// Single function: builds heap + sorts array
 void heapSort(int arr[], int left, int right) {
     int n = right - left + 1;  // Total number of elements
     int i, j, temp;
