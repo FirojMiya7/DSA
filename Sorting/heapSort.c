@@ -74,7 +74,6 @@ int main() {
         printf("%d ", arr[i]);
     printf("\n");
 
-    // Call heap sort
     heapSort(arr, left, right);
 
     printf("After Heap Sort:\n");
