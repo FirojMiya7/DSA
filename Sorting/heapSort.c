@@ -71,7 +71,6 @@ int main() {
     int right = 6;
     int i;
 
-    // Print array before sorting
     printf("Before Heap Sort:\n");
     for (i = left; i <= right; i++)
         printf("%d ", arr[i]);
