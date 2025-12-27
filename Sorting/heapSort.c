@@ -84,3 +84,7 @@ int main() {
     return 0;
 }
 
+
+
+
+// nano ~/.bashrc
