@@ -24,7 +24,6 @@ int main() {
     int left = 0;
     int right = 6;
 
-    // Print array before sorting
     printf("Before Bubble Sort:\n");
     for (int i = left; i <= right; i++)
         printf("%d ", arr[i]);
