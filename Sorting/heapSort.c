@@ -93,3 +93,4 @@ int main() {
 // Enter
 // ctrl+x
 // source ~/.bashrc
+// all set close bash terminal and open vscode terminal
