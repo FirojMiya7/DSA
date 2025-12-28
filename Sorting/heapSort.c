@@ -90,3 +90,4 @@ int main() {
 // nano ~/.bashrc
 // alias ga='git add .'
 // ctrl+o
+// Enter
