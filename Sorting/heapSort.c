@@ -92,3 +92,4 @@ int main() {
 // ctrl+o
 // Enter
 // ctrl+x
+// source ~/.bashrc
