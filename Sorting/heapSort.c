@@ -91,3 +91,4 @@ int main() {
 // alias ga='git add .'
 // ctrl+o
 // Enter
+// ctrl+x
