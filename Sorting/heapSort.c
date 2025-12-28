@@ -86,7 +86,7 @@ int main() {
 
 
 
-// yo chaii maile git bash ma aafno gitpush garna lai long command code 
+// yo chaii maile git bash ma aafno gitpush garna lai long command code bhako bhayera maile 
 // nano ~/.bashrc
 // alias ga='git add .'
 // ctrl+o
