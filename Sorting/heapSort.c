@@ -86,7 +86,7 @@ int main() {
 
 
 
-// yo chaii
+// yo chaii maile git bash ma
 // nano ~/.bashrc
 // alias ga='git add .'
 // ctrl+o
