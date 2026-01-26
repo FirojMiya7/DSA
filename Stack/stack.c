@@ -13,6 +13,10 @@ void push(int data){
     }
 }
 
+//For popping element at a specific index
+// Not recommended for stack usage, as it violates LIFO principle
+// But Valid for educational purposes and Array manipulation
+
 // void pop(){
 //     if(top == -1){
 //         printf("\nStack Underflow\n");
