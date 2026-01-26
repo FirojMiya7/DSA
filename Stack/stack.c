@@ -55,10 +55,10 @@ void show(){
 
 int main(){
     while(1){
+        int c;
+
         printf("\n1. Push\n2. Pop\n3. Display\n4. Exit\n");
         printf("Enter your choice: ");
-
-        int c;
         scanf("%d", &c);  // assume user always enters correct number
 
         if(c == 1){  // push
@@ -74,7 +74,7 @@ int main(){
             show();
         }
         else if(c == 4){  // exit
-            printf("Program Exit Successfully.\n");
+            printf("Thank you for using the stack program.\n");
             break;  // loop end, program terminate
         }
         else{
